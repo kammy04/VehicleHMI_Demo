@@ -1,4 +1,4 @@
-package com.example.vehiclehmidemo
+package com.example.vehiclehmi_demo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
